@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: mini_mec_six_arm
+    relative_path: urdf/mini_mec_six_arm.urdf
+  srdf:
+    relative_path: config/mini_mec_six_arm.srdf
+  package_settings:
+    author_name: kyne
+    author_email: kyne@gmail.com
+    generated_timestamp: 1707291681

@@ -1,0 +1,17 @@
+<package format="2">
+  <name>mini_mec_six_arm</name>
+  <version>2.0.0</version>
+  <description>
+    <p>URDF Description package for mini_mec_six_arm</p>
+    <p>This package contains configuration data, 3D models and launch files
+for mini_mec_six_arm robot</p>
+  </description>
+  <author>TODO</author>
+  <maintainer email="TODO@email.com" />
+  <license>BSD</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <export>
+    <architecture_independent />
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
