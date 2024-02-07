@@ -1,0 +1,14 @@
+HELP.md
+### VS Code ###
+.vscode/
+
+### mac ###
+.DS_Store
+
+### ROS ###
+.catkin_workspace
+build/
+devel/
+install/
+/log
+/Log
