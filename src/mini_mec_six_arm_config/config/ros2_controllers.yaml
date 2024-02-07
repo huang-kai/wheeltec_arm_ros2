@@ -23,9 +23,10 @@ arm_controller:
       - joint4
       - joint5
     command_interfaces:
-      []
+      - position
     state_interfaces:
-      []
+      - position
+      - velocity
 hand_controller:
   ros__parameters:
     joints:
@@ -36,6 +37,7 @@ hand_controller:
       - joint8
       - joint9
     command_interfaces:
-      []
+      - position
     state_interfaces:
-      []
+      - position
+      - velocity
