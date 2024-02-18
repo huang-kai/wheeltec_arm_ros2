@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(mini_mec_six_arm_config)
+project(mini_mec_six_arm_moveit_config)
 
 find_package(ament_cmake REQUIRED)
 
