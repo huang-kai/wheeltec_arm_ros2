@@ -7,19 +7,4 @@ moveit_setup_assistant_config:
   package_settings:
     author_name: kyne
     author_email: kyne@gmail.com
-    generated_timestamp: 1707298164
-  control_xacro:
-    command:
-      - position
-    state:
-      - position
-      - velocity
-  modified_urdf:
-    xacros:
-      - control_xacro
-  control_xacro:
-    command:
-      - position
-    state:
-      - position
-      - velocity
+    generated_timestamp: 1707966907
